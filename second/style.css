@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 .main-wrapper{
+=======
+body {
+>>>>>>> 586e24591807fd0d6d009fad31c3938868159f05
     box-sizing: border-box;
     margin: 0;
 }
 
+<<<<<<< HEAD
 .left-bar {
     background: blue;
     float: left;
@@ -31,4 +36,40 @@
     float: left;
     height: 100vh;
     width: 33.33vw;
+=======
+.div1 {
+    background: blue;
+    float: left;
+    height: 100vh;
+    width: 30%;
+}
+
+.div2 {
+    background: green;
+    float: left;
+    height: 100vh;
+    width: 30%;
+}
+
+.parent{
+  width: 30%;
+  float: left;
+  height: 100vh;
+}
+
+
+.div3 {
+    background: yellow;
+    float: left;
+    height: 80%;
+    width: 100%;
+
+
+}
+#placeholder{
+  background: red;
+  height: 20%;
+  width: 100%;
+  float: left;
+>>>>>>> 586e24591807fd0d6d009fad31c3938868159f05
 }
