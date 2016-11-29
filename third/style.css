@@ -1,0 +1,48 @@
+.header{
+  width: 100vw;
+  height: 15vh;
+  background: #9fa3a8;
+}
+
+.blue-sq{
+  height: 12vh;
+  width: 8vw;
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  background: #3ba6ed;
+}
+
+.text{
+  margin-left: 40px;
+  font-size: 20px;
+  margin-top: 36px;
+  margin-right: 40px;
+
+
+
+}
+.blue{
+  width: 100vw;
+  height: 20vh;
+  background: #3ba6ed;
+  margin-top: 36px;
+}
+.green{
+  width: 100vw;
+  height: 20vh;
+  background: #51e2c5;
+
+}
+.light-green{
+  width: 100vw;
+  height: 20vh;
+  background: #58e288;
+
+}
+.yellow{
+  width: 100vw;
+  height: 20vh;
+  background: #e2dc58;
+
+}

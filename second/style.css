@@ -1,0 +1,34 @@
+.main-wrapper{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.left-bar {
+    background: blue;
+    float: left;
+    height: 100vh;
+    width: 33.33%;
+}
+
+.middle-bar {
+    background: green;
+    float: left;
+    height: 100vh;
+    width: 33.33%;
+}
+
+.img{
+  width: 33.33%;
+  float: left;
+  height: 25vh;
+  background: red;
+  position: absolute;
+  bottom: 0;
+
+}
+.right-bar{
+    background: yellow;
+    float: left;
+    height: 100vh;
+    width: 33.33vw;
+}
